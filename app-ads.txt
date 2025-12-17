@@ -1,0 +1,9 @@
+# app-ads.txt file for Ambient Glow
+# This file must be hosted at: https://romainrun.github.io/app-ads.txt
+# 
+# Format: <Domain>, <Publisher ID>, <Relationship>, <Certification Authority ID>
+# 
+# AdMob Publisher ID: 3137130387262789 (from App ID: ca-app-pub-3137130387262789~2468948254)
+
+google.com, pub-3137130387262789, DIRECT, f08c47fec0942fa0
+
